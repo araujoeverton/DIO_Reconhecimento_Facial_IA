@@ -1,0 +1,14 @@
+{
+  "apim-request-id": "ef60b4c7-318f-48f2-8db3-1badf9146dd1",
+  "content-length": "161",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "captionResult": {
+    "text": "a cash register with a sign on it",
+    "confidence": 0.6439366340637207
+  },
+  "metadata": {
+    "width": 1000,
+    "height": 673
+  }
+}
