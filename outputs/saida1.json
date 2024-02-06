@@ -1,0 +1,14 @@
+{
+  "apim-request-id": "c92ff411-caa9-49e7-bd2c-e41c12f8fb50",
+  "content-length": "152",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "captionResult": {
+    "text": "a group of pottery jugs",
+    "confidence": 0.6897644400596619
+  },
+  "metadata": {
+    "width": 1000,
+    "height": 1000
+  }
+}
