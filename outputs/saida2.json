@@ -1,0 +1,14 @@
+{
+  "apim-request-id": "ef62d042-00bb-4dea-ac97-310c1481c8af",
+  "content-length": "158",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "captionResult": {
+    "text": "a close up of a weighing scale",
+    "confidence": 0.6343815326690674
+  },
+  "metadata": {
+    "width": 1000,
+    "height": 614
+  }
+}
