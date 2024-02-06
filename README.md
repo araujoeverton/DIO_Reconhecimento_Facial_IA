@@ -15,11 +15,11 @@ Para este Lab, utilizamos o Adicionamento de legenda as imagens, onde escolhi im
 ![imagens de 1 a 5](https://evertonaraujo.pro/wp-content/uploads/2024/02/reliquias.jpg)
 
 
-<b>Imagem 1</b> "a group of pottery jugs" , "um grupo de jarros de cerâmica";
-<b>Imagem 2</b> "a close up of a weighing scale" , "um close up de uma balança";
-<b>Imagem 3</b> "an old iron with a wooden handle" , "um ferro velho com cabo de madeira";
-<b>Imagem 4</b> "a cash register with a sign on it" , "uma caixa registradora com uma placa";
-<b>Imagem 5</b> "a record player with a horn" , "um toca-discos com buzina";
+<b>Imagem 1</b> "a group of pottery jugs" , "um grupo de jarros de cerâmica";<br>
+<b>Imagem 2</b> "a close up of a weighing scale" , "um close up de uma balança";<br>
+<b>Imagem 3</b> "an old iron with a wooden handle" , "um ferro velho com cabo de madeira";<br>
+<b>Imagem 4</b> "a cash register with a sign on it" , "uma caixa registradora com uma placa";<br>
+<b>Imagem 5</b> "a record player with a horn" , "um toca-discos com buzina";<br>
 
 ### Conclusão
 Foi impressionante a precisão com que a IA criou os resumos das imagens, demonstrando que pode ter ótimas respostas para esta finalidade.
